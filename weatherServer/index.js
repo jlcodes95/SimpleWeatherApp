@@ -42,6 +42,7 @@ app.get('/', (req, res, next) => {
                   refreshTime: time,
                })
             )
+            getDataAndSend(res, city)
          } else {
             console.log('hasrecord')
             //old record
