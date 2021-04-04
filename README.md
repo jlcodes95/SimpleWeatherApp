@@ -8,3 +8,10 @@ A Simple Weather App with small express server
 ## WeatherServer
 * Using Redis and Moment in express to rate-limit the backend requests (i.e. 5/minute)
 * Calling weather API to get the actual weather data
+
+### Devices & Preview
+* Tested on Physical Android Device - Oneplus 5
+<div>
+<img src="https://user-images.githubusercontent.com/9597150/113522640-4adff880-9570-11eb-9332-5c48ed7e424d.png" width="33%" height="33%">
+<img src="https://user-images.githubusercontent.com/9597150/113522641-4ddae900-9570-11eb-8895-2640396f1749.png" width="33%" height="33%">
+</div>
